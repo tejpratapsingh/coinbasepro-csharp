@@ -29,6 +29,7 @@
         ZIL,
         ZRX,
         ALGO,
+        LINK,
         DASH,
         OXT,
         ATOM,
